@@ -1,5 +1,6 @@
 [
   {
-    "package": "palettes"
+    "package": "palettes",
+    "oncran": true
   }
 ]
