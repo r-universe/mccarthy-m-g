@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mccarthy-m-g/universe
+	url = https://github.com/mccarthy-m-g/mccarthy-m-g.r-universe.dev
 	branch = HEAD
 [submodule "palettes"]
 	path = palettes
